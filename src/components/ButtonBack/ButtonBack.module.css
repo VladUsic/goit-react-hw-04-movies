@@ -1,0 +1,19 @@
+.ButtonBack {
+  display: flex;
+  padding: 5px;
+  border-radius: 0 15px 15px 0;
+  font-size: 18px;
+  font-weight: 500;
+  background-color: #4096cf;
+  color: black;
+  cursor: pointer;
+}
+
+.ButtonBack:hover {
+  color: rgb(207, 18, 18);
+  text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+.Icon {
+  margin-right: 5px;
+}

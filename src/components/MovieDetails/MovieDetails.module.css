@@ -1,0 +1,24 @@
+.Thumb {
+  text-align: center;
+  padding: 40px;
+}
+
+.ImgMovie {
+  margin: 0 auto;
+}
+
+.Description {
+  color: #4096cf;
+  font-size: 20px;
+  font-weight: 500;
+}
+.SpanText {
+  font-size: 16px;
+  color: black;
+  font-weight: 500;
+}
+
+.Information {
+  font-size: 22px;
+  font-weight: 500;
+}

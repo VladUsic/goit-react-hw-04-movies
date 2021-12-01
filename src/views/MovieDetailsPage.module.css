@@ -1,0 +1,25 @@
+.List {
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+}
+
+.NavLink {
+  padding: 3px;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 500;
+  background-color: #4096cf;
+  color: black;
+  border: 1px solid #4096cf;
+  border-radius: 4px;
+}
+
+.NavLink:hover {
+  text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+.NavLink_Active {
+  color: rgb(207, 18, 18);
+  text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
